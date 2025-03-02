@@ -2,7 +2,7 @@
 - 👀 Tenho um grande interesse em programação e computação.
 - 🌱 Sou estudante de Licenciatura em Física no Instituto Federal do Ceará.
 - 📚 Atualmente estou estudando Java.
-- 📫 Como entrar em contato comigo: iagopinheirodeandrade@gmail.com
+- 📫 Contato: iagopinheirodeandrade@gmail.com
 
 <!---
 iagopandrade/iagopandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
