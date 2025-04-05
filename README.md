@@ -1,10 +1,5 @@
-- 👋 Olá, eu sou @iagopandrade
-- 👀 Tenho um grande interesse em programação e computação.
-- 🌱 Sou estudante de Licenciatura em Física no Instituto Federal do Ceará.
-- 📚 Atualmente estou estudando Java.
+- 👋 Olá, eu sou Iago Pinheiro.
+- 👀 Tenho um grande interesse em computação.
+- 🌱 Sou estudante de Engenharia de Computação na [Universidade Federal do Ceará](https://www.ufc.br/).
+- 📚 Atualmente estou estudando lógica de programação.
 - 📫 Contato: iagopinheirodeandrade@gmail.com
-
-<!---
-iagopandrade/iagopandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
