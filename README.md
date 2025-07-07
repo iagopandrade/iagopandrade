@@ -1,10 +1,8 @@
-# 👋 Olá! Eu sou o Iago Pinheiro (iagopandrade)
+# Olá! Eu sou Iago Pinheiro (iagopandrade) 
+Estudante de Engenharia de Computação na Universidade Federal do Ceará (UFC). Atualmente, estou aprendendo a linguagem C.
 
-- 🌱 Sou estudante de Engenharia de Computação.
-- 📚 Atualmente estou aprendendo as linguagens C e Java.
-
-# Github Stats
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagopandrade&theme=default&show_icons=true)  
 
-# Linguagens Mais Usadas
+## Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iagopandrade&theme=default&show_icons=true)
